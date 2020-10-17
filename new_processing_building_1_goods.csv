@@ -1,0 +1,2 @@
+Name,ToolIconExportName,TID,ProcessingBuilding,RequirementAmount,Requirement,TimeMin,OrderPrice,OrderExp,ExpCollect,InstantComplete,DumbValue,OrderValue,BoatOrderValue,UnlockLevel,DescriptionTID,Difficulty
+String,String,String,String,int,String,int,int,int,int,int,int,int,int,int,string,int

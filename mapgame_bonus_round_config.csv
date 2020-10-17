@@ -1,0 +1,5 @@
+Name,TotalCardCount,BombCount,RewardsToAdvance
+String,int,int,int
+Round1,6,1,3
+Round2,9,2,3
+Round3,15,3,3

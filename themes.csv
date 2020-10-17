@@ -1,0 +1,11 @@
+Name,LevelLimit,ExportNamePostfix,Enabled,Snow
+String,int,String,boolean,boolean
+ChineseNewYear,9,_winter,true,true
+Valentines,9,,true
+Easter,9,,true
+Summer,9,_summer,true
+Halloween,9,_halloween,true
+Autumn,9,_autumn,true
+Winter,9,_winter,true,true
+Christmas,9,_winter,true,true
+NewYear,9,_winter,true,true
