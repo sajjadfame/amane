@@ -1,6 +1,6 @@
 Name,Tool,Amount,NormalPrice,DiscountPrice,DiscountPercent,LevelEnabled,LevelDisabled,DurationMinutes,Spender,Enabled
 String,String,int,int,int,int,int,int,int,Boolean,Boolean
-Saw_Spender_1,Saw,12,60,36,40,7,10,1200,true,false
+Saw_Spender_1,Saw,12,مليار بس خلي رقم مو كتابه 100000000000,36,40,7,10,1200,true,false
 Saw_Spender_2,Saw,16,80,44,45,7,10,1200,true,true
 Saw_Spender_3,Saw,16,80,48,40,10,20,1200,true,false
 Saw_Spender_4,Saw,20,100,55,45,10,20,1200,true,true
